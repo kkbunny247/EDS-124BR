@@ -1,3 +1,3 @@
 # Kendra's Portfolio
 
-* [Show What You Know: Explain Your Program](https://kkbunny247.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+* [Show What You Know: Explain Your Program](https://www.youtube.com/watch?v=uu23DFVK6LY)
