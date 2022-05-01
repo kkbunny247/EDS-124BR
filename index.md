@@ -6,3 +6,4 @@
 * [Show What You Know (Code Walkthrough: Nested Repeats)](https://www.youtube.com/watch?v=981OMmGTHJY)
 * [Show What You Know (Code Walkthrough: Events)](https://www.youtube.com/watch?v=ArBpDWLCctc)
 * [Show What You Know (Code Walkthrough: Variables)](https://www.youtube.com/watch?v=o0UGDGuaQEA)
+* [Show What You Know (Code Walkthrough: Conditional Loops)](https://www.youtube.com/watch?v=WcQ8rrcv1T8)
