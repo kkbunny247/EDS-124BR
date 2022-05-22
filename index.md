@@ -9,3 +9,4 @@
 * [Show What You Know (Code Walkthrough: Conditional Loops)](https://www.youtube.com/watch?v=WcQ8rrcv1T8)
 * [Show What You Know (Code Walkthrough: If Statements)](https://www.youtube.com/watch?v=f25f4EsW6QY)
 * [Show What You Know (Code Walkthrough: Nested If/Else)](https://www.youtube.com/watch?v=YoqM2Cf4l8I)
+* [Show What You Know (Code Walkthrough: Compound Conditionals)](https://www.youtube.com/watch?v=DzOvtCzOefE)
