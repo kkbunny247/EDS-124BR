@@ -11,3 +11,4 @@
 * [Show What You Know (Code Walkthrough: Nested If/Else)](https://www.youtube.com/watch?v=YoqM2Cf4l8I)
 * [Show What You Know (Code Walkthrough: Compound Conditionals)](https://www.youtube.com/watch?v=DzOvtCzOefE)
 * [Show What You Know (Code Walkthrough: Abstraction)](https://www.youtube.com/watch?v=-N6ohk2OZyQ)
+* [Show What You Know (Code Walkthrough: Lists)](https://www.youtube.com/watch?v=dfWyIP35dMA)
